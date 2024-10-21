@@ -25,7 +25,7 @@ const Hero = () => {
 />
       </h1>
       <p className="mb-8 leading-relaxed text-black">
-      Hey! Welcome to my portfolio! I'm Radhiya Khan, a motivated web development student with a strong focus on HTML, CSS, TypeScript, JavaScript, and Next.js. Leveraging GIAIC resources, I'm dedicated to continuous learning and skill-building. Explore my projects, witness my growth, and join me on this exciting journey into the world of web development.
+      Hey! Welcome to my portfolio! I am Radhiya Khan, a motivated web development student with a strong focus on HTML, CSS, TypeScript, JavaScript, and Next.js. Leveraging GIAIC resources, I am dedicated to continuous learning and skill-building. Explore my projects, witness my growth, and join me on this exciting journey into the world of web development.
       </p>
       
     </div>
