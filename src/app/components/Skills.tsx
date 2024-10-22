@@ -5,7 +5,7 @@ import { SiTailwindcss, SiTypescript } from 'react-icons/si'
 
 const Skills = () => {
   return (
-    <div>
+    <div id='skills'>
       <section className="text-purple-600 body-font">
     <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-1">
