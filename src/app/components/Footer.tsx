@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <div>
       <footer className=" bg-purple-600 body-font">
-  <div className="container px-2 py-2 mx-auto flex items-center sm:flex-row flex-col">
+  <div className="container h-12 px-2 py-2 mx-auto flex items-center sm:flex-row flex-col">
     <a className="flex title-font font-medium items-center md:justify-start justify-center text-white font-serif">
       <Image src={logoo} alt='ok' className='w-10 h-10 rounded-full bg-black-900'/>
       <span className="ml-2 text-xl">RADIYA KHAN</span>
