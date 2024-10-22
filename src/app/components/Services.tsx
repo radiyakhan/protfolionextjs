@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import React from 'react'
 import { FaCode, FaYoutube } from 'react-icons/fa'
 import { RiComputerLine } from 'react-icons/ri'
