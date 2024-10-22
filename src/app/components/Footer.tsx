@@ -15,7 +15,7 @@ const Footer = () => {
       <Image src={logoo} alt='ok' className='w-10 h-10 rounded-full bg-black-900'/>
       <span className="ml-2 text-xl">RADIYA KHAN</span>
     </a>
-    <span className="inline-flex sm:ml-auto sm:mt-0 justify-center sm:justify-start">
+    <span className="inline-flex mt-3 sm:ml-auto sm:mt-0 justify-center sm:justify-start">
       <Link 
       target='_blank'
       href={"https://www.instagram.com/radiya._.345?igsh=NzQ5MTZnMTNxN2lv"} className="text-gray-800 text-2xl hover:text-pink-600">
