@@ -3,7 +3,7 @@ import Image from 'next/image'
 import logoo from "../../../public/logoo.jpg"
 import { RiInstagramFill } from "react-icons/ri";
 import { SiFacebook } from "react-icons/si";
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 import Link from 'next/link';
 
 const Footer = () => {
@@ -34,11 +34,6 @@ const Footer = () => {
       <FaLinkedin />
       </Link >
 
-      <Link 
-      target='_blank'
-      href={"https://github.com/radiyakhan"} className="ml-4 text-gray-800 text-2xl hover:text-black">
-      <FaGithub />
-      </Link >
     </span>
   </div>
 </footer>
