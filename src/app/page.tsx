@@ -9,7 +9,6 @@ const home = () =>{
   return(
    <div>
     <Hero/>
-    <About/>
     <Skills/>
     <Services/>
     <Projects/>

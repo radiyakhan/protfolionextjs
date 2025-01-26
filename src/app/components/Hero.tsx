@@ -25,7 +25,13 @@ const Hero = () => {
 />
       </h1>
       <p className="mb-8 leading-relaxed text-black">
-      Hey! Welcome to my portfolio! I'm Radhiya Khan, a motivated web development student with a strong focus on HTML, CSS, TypeScript, JavaScript, and Next.js. Leveraging GIAIC resources, I'm dedicated to continuous learning and skill-building. Explore my projects, witness my growth, and join me on this exciting journey into the world of web development.
+      Hello, I'm Radiya khan, 19-year-old. Recently I complete my second year with commerce. Now I learning skills by enrolling 
+      in GIAIC IT course. This exciting journey has equipped me with a solid foundation in web development, including HTML, 
+      CSS, TypeScript, and JavaScript. 
+      Currently, I'm diving deeper into Next.js to create seamless and scalable web applications.Through GIAIC program, 
+      I've gained valuable insights and expertise that have opened doors to new opportunities. I'm eager to continue learning, 
+      exploring, and adapting to the ever-evolving tech landscape. With each new skill and experience, I'm confident in my ability 
+      to make a meaningful impact in the digital world.
       </p>
       
     </div>
