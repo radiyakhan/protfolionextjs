@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaCss3, FaFigma, FaHtml5, FaJs, FaReact } from 'react-icons/fa'
 import { RiNextjsFill } from 'react-icons/ri'
-import { SiNextdotjs, SiTailwindcss, SiTypescript } from 'react-icons/si'
+import { SiTailwindcss, SiTypescript } from 'react-icons/si'
 
 const Skills = () => {
   return (

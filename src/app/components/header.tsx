@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
 import logoo from "../../../public/logoo.jpg"
-import { FaArrowDown } from "react-icons/fa";
 import Link from 'next/link';
 // import { FaArrowAltCircleDown } from "react-icons/fa";
 
