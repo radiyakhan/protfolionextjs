@@ -26,7 +26,7 @@ const Hero = () => {
       </h1>
       <p className="mb-8 leading-relaxed text-black">
 
-      Hello, I'm Radiya khan, 19-year-old. Recently I complete my second year with commerce. Now I learning skills by enrolling 
+      Hello, I'm Radiya khan, 20-year-old. Recently I complete my second year with commerce. Now I learning skills by enrolling 
       in GIAIC IT course. This exciting journey has equipped me with a solid foundation in web development, including HTML, 
       CSS, TypeScript, Next.js, Tailwindcss, React, Figma and JavaScript. 
       Currently, I'm diving deeper into Next.js to create seamless and scalable web applications.Through GIAIC program, 
