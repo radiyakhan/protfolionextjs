@@ -15,7 +15,7 @@ const Skills = () => {
     </div>
     </div>
     </section>
-    <div className="grid lg:grid-cols-3 lg:grid-rows-2 grid-cols-3 sm:grid sm:grid-cols-10 sm:grid-rows-2  text-center xl:gap-x-0  text-purple-500 lg:ml-36 px-48 lg:gap-1 ">
+    <div className="grid lg:grid-cols-3 lg:grid-rows-2 grid-cols-3 sm:grid sm:grid-cols-10 sm:grid-rows-2  text-center xl:gap-x-0  text-purple-500 lg:ml-36 px-4 lg:gap-1 ">
         <div className="text-6xl flex gap-20 group-hover:text-accent mb-14 border-2 w-20 border-purple-300 bg-purple-100  rounded-full  h-20 pt-3 pl-2"><FaHtml5/></div>
         <div className="text-6xl group-hover:text-accent  mb-11 border-2 w-20 border-purple-300 bg-purple-100 rounded-full h-20 pt-3 pl-2"><FaCss3/></div>
         <div className="text-5xl group-hover:text-accent  mb-11 border-2 w-20 border-purple-300 bg-purple-100 rounded-full h-20 pt-3 pl-3"><SiTypescript/></div>
